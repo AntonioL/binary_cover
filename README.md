@@ -13,4 +13,5 @@ In the toy example there is no enumeration of the tuples of the query result. Th
 
 ## References
 [1] Covers of Query Results. Ahmet Kara, Dan Olteanu. arXiv:1709.01600
+
 [2] Antonio Lombardo: Storage Layer for Factorized Data. MSc Thesis, University of Oxford
